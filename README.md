@@ -25,4 +25,4 @@ flysafe-api.dji.com - LOL registered to Perfect Privacy LLC
 ````
 You can block these by using the pure domains but listed them for completeness.
 
-(thanks Damon Cooper for the idea)
+(thanks Damon Cooper and RedHotPoker for the idea)
